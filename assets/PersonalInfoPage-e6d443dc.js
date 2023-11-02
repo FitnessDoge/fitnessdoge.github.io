@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{k as n,l as s,F as t,Y as e}from"./index-1d80db10.js";const a={},r=e("h1",null,"Personal Info page",-1),c=e("p",null,"个人信息管理",-1);function l(_,f){return n(),s(t,null,[r,c],64)}const d=o(a,[["render",l]]);export{d as default};

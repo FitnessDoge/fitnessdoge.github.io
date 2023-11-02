@@ -1,0 +1,1 @@
+import{_ as n}from"./_plugin-vue_export-helper-c27b6911.js";import{k as t,l as o,F as s,Y as e}from"./index-b0148eb3.js";const r={},a=e("h1",null,"Children page",-1),c=e("p",null,"新闻推送",-1);function _(l,d){return t(),o(s,null,[a,c],64)}const m=n(r,[["render",_]]);export{m as default};

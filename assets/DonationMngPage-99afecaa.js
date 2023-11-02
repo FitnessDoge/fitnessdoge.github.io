@@ -1,1 +1,0 @@
-import{_ as n}from"./_plugin-vue_export-helper-c27b6911.js";import{k as o,l as t,F as a,Y as e}from"./index-f8d20547.js";const s={},c=e("h1",null,"Donation page",-1),r=e("p",null,"捐物管理页面",-1);function _(l,i){return o(),t(a,null,[c,r],64)}const p=n(s,[["render",_]]);export{p as default};
