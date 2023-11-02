@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-c27b6911.js";import{k as n,l as a,F as o,Y as e}from"./index-f8d20547.js";const c={},r=e("h1",null,"Interaction page",-1),s=e("p",null,"交互任务分配",-1);function _(l,i){return n(),a(o,null,[r,s],64)}const p=t(c,[["render",_]]);export{p as default};
